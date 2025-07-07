@@ -132,10 +132,7 @@ Install the required libraries:
 pip install tensorflow pandas numpy seaborn matplotlib scikit-learn
 
 
-Author
-Muhammad Hasnain Raza
+## Author
+- **Muhammad Hasnain Raza
 For inquiries or collaboration, feel free to connect via LinkedIn or GitHub.
-
-
-For inquiries or collaboration, feel free to connect via LinkedIn or GitHub.
-Viait [LinkedIn](https://www.linkedin.com/in/muhammad-hasnain-mhr/) 
+- **Visit [LinkedIn](https://www.linkedin.com/in/muhammad-hasnain-mhr/) 
