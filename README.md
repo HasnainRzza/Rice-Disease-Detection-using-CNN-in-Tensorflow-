@@ -133,6 +133,7 @@ pip install tensorflow pandas numpy seaborn matplotlib scikit-learn
 
 
 ## Author
-- **Muhammad Hasnain Raza
-For inquiries or collaboration, feel free to connect via LinkedIn or GitHub.
-- **Visit [LinkedIn](https://www.linkedin.com/in/muhammad-hasnain-mhr/) 
+
+**Muhammad Hasnain Raza**  
+For inquiries or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/muhammad-hasnain-mhr/)
+
