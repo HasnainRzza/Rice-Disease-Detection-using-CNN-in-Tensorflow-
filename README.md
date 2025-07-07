@@ -73,6 +73,7 @@ tf.keras.Sequential([
   Dense(num_classes, activation='softmax')
 ])
 
+```
 ## Training Configuration
 
 - **Optimizer**: Adam  
@@ -130,7 +131,7 @@ Install the required libraries:
 
 ```bash
 pip install tensorflow pandas numpy seaborn matplotlib scikit-learn
-
+```
 
 ## Author
 
